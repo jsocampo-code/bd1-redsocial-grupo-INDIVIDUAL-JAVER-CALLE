@@ -1,10 +1,10 @@
 # Red Social Pascualina - Modelo Conceptual de Base de Datos
 
-## 📄 Información del Proyecto
+## Información del Proyecto
 * **Asignatura:** Bases de Datos I
 * **Institución:** Institución Universitaria Pascual Bravo
 
-## 👤 Integrantes
+## Integrantes
 * **Javer Stiven Calle Ocampo** *(Trabajo Individual)*
 
 ## Descripción del Caso
